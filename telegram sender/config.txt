@@ -1,0 +1,5 @@
+TOKEN=5985853522:AAGFy7gQSPDP5cMwgt9fyprXEZZPqMQJZbY
+CHANNEL_ID=@aiartscollections
+IMAGE_FOLDER=F:\ComfyUI_windows_portable\ComfyUI\output\Flux\jpg
+SENT_IMAGE_FOLDER=F:\ComfyUI_windows_portable\ComfyUI\output\Flux\sent
+DELAY=3

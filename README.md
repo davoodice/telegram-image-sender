@@ -6,7 +6,7 @@ you need to install python before use it.
 
 instruction:
 
-1-put all image in a specofoc folder.
+1-put all images in a specific folder.
 
 2-fill config.txt file 
 

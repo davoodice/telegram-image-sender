@@ -11,3 +11,5 @@ instruction:
 2-fill config.txt file 
 
 3-run telegram sender.bat
+
+![image](https://github.com/user-attachments/assets/39b888dd-6a1c-49a9-b85f-bfa72aa744ea)

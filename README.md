@@ -5,6 +5,7 @@ you need to install python before use it.
 
 
 instruction:
+First create a bot and add it to your group or channel as administrator then:
 
 1-put all images in a specific folder.
 

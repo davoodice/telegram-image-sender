@@ -1,5 +1,5 @@
-TOKEN=5985853522:AAGFy7gQSPDP5cMwgt9fyprXEZZPqMQJZbY
-CHANNEL_ID=@aiartscollections
-IMAGE_FOLDER=F:\ComfyUI_windows_portable\ComfyUI\output\Flux\jpg
-SENT_IMAGE_FOLDER=F:\ComfyUI_windows_portable\ComfyUI\output\Flux\sent
+TOKEN= your telegram bot token
+CHANNEL_ID= your telegram channel/group Id (example: @mychannel)
+IMAGE_FOLDER=F:\image folder
+SENT_IMAGE_FOLDER=F:\sent
 DELAY=3

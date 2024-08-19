@@ -1,5 +1,7 @@
 # telegram-image-sender
 
+sending All images of a folder to your channel or group.
+
 Simply send every images inside a folder to your telegram channel or group.
 you need to install python before use it.
 
